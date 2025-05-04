@@ -31,7 +31,7 @@ I'm a passionate full-stack web developer focused on building efficient and scal
 
 ## 📌 Featured Projects
 
-### 🏡 [Airbnb Clone](https://github.com/Prasad528260/airbnb-clone)
+### 🏡 [Airbnb Clone]([https://github.com/Prasad528260/airbnb-clone](https://airbnb-5idb.onrender.com))
 A full-featured Airbnb-like web app built using MERN stack and styled with Tailwind CSS.
 
 ### 💸 [Expense Tracker](https://github.com/Prasad528260/expense-tracker)
