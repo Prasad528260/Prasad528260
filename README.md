@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prasad Subhedar
 
-🚀 MERN Stack Developer | 🤖 ML Enthusiast
+🚀 Full Stack Developer | 🤖 ML Enthusiast
 
 I'm a passionate full-stack web developer focused on building efficient and scalable web applications using the **MERN** stack. I'm also diving into the exciting world of **Machine Learning** and AI, expanding my skill set beyond web development.
 
