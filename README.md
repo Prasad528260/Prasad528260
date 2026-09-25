@@ -71,6 +71,6 @@ Real-time dock scheduling system using Priority Queue + Greedy scheduling, cutti
 
 ---
 
-> _"I asked ChatGPT for a personality. It gave me `console.log("hi")` and called it a day."_ 🤖
+> _"Life is like a linked list — you never know what's next, and someone always forgets to update the pointer."_ 🤖
 
 Thanks for visiting — now go star a repo before your AI overlords notice you didn't. 🌟
